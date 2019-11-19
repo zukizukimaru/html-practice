@@ -1,0 +1,14 @@
+.access ul {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top:0px; 
+    margin-bottom: 0px;
+}
+
+.access img {
+    width: 200px;
+}
+
+.contact {
+    width: 250px;
+}
