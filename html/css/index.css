@@ -1,12 +1,13 @@
-.access ul {
+.profile ul {
     list-style-type: none;
     padding-left: 0px;
     margin-top:0px; 
     margin-bottom: 0px;
 }
 
-.access img {
-    width: 200px;
+.profile img {
+    width:　350px;
+    height: 414px;
 }
 
 .contact {
@@ -14,9 +15,17 @@
 }
 
 article {
-    border-top:solid medium  black;
+    border-top:solid 1px  black;
 }
 
 article:last-child {
-    border-bottom:solid medium  black;
+    border-bottom:solid 1px  black;
+}
+
+article span{
+  color:red;
+}
+
+body {
+    font-size: 16px;
 }
